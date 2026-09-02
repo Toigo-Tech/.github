@@ -22,6 +22,9 @@ Hub de ferramentas profissionais com conta única, planos flexíveis e limites p
 ### StopWise
 App de roteirização com navegação externa (Waze / Google Maps) — importação de paradas, execução de rotas e histórico.
 
+### [BidWise](https://bidwise.toigotech.com)
+Licitações públicas (PNCP) ordenadas para o perfil da empresa — nota de encaixe, ranking de oportunidades e digest de editais.
+
 ## Stack
 
 `TypeScript` · `NestJS` · `Next.js` · `React` · `React Native` · `Expo` · `PostgreSQL` · `Flutter` · `Python` · `Go`
